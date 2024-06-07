@@ -1,3 +1,4 @@
+#returns the number of bit strings
 n = int(input())
 ans = 1
 for i in range(n):
